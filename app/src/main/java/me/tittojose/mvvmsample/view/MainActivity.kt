@@ -1,7 +1,8 @@
-package me.tittojose.mvvmsample
+package me.tittojose.mvvmsample.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import me.tittojose.mvvmsample.R
 
 class MainActivity : AppCompatActivity() {
 

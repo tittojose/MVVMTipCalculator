@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVVMSample</string>
+    <string name="check_input_hint">Check</string>
+    <string name="tip_percentage">Tip percentage</string>
+    <string name="input_check_label">Check</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
 </resources>
