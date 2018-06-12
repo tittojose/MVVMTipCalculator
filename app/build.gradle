@@ -4,6 +4,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 27
     defaultConfig {
+        vectorDrawables.useSupportLibrary = true
         applicationId "me.tittojose.mvvmsample"
         minSdkVersion 16
         targetSdkVersion 27
